@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Roma,_Italia-302B63?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Disponibile-Stage_%26_Primo_lavoro-A78BFA?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Disponibile-Ruolo Junior IT_?style=for-the-badge&logo=handshake&logoColor=white" />
 <img src="https://img.shields.io/badge/Inglese-C1-1F8FFF?style=for-the-badge&logo=googletranslate&logoColor=white" />
 
 </div>
