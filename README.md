@@ -26,7 +26,6 @@ Sono una persona **precisa e attenta ai dettagli**. Per me sbagliare non è un p
 - Programmazione in C++ e gestione di database con SQL e MariaDB
 - Simulazione di reti con Cisco Packet Tracer
 - Uso di AWS e GitHub per cloud e versionamento del codice
-- Robotica industriale (robot UR3) e simulazione finanziaria, svolte nei PCTO
 
 **Passioni**: sviluppo web, hardware e scripting, e la tecnologia in generale.
 
@@ -38,6 +37,7 @@ Sono una persona **precisa e attenta ai dettagli**. Per me sbagliare non è un p
 |---|---|---|
 | 2026 | **Diploma di Tecnico Informatico** | I.T. "G. Marconi", Civitavecchia |
 
+<!--
 ---
 
 ## 💼 Esperienze (PCTO)
@@ -47,6 +47,7 @@ Sono una persona **precisa e attenta ai dettagli**. Per me sbagliare non è un p
 - **IBM SkillsBuild**: percorso di formazione online
 
 ---
+-->
 
 ## 🛠️ Tech Stack
 
