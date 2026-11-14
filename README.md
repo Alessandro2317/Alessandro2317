@@ -1,5 +1,5 @@
 <!--
-  1. Sostituisci TUO-USERNAME con il tuo username GitHub.
+  1. Sostituisci TUO-USERNAME con il tuo username GitHub (con Cerca e sostituisci nel tuo editor, prima di incollare).
   2. Sostituisci i TODO con i tuoi dati (cognome, email, LinkedIn).
 -->
 
@@ -43,35 +43,27 @@ Tecnico Informatico diplomato nel 2026 presso l'I.T. "G. Marconi" di Civitavecch
 
 ---
 
-## 🛠️ Competenze
+## 🛠️ Tech Stack
 
-<div align="center">
-
-**Sviluppo**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Cloud e strumenti**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Reti e altro**
-
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-
-</div>
+| Layer | Stack |
+|---|---|
+| **Linguaggi** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Database** | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Cloud e versionamento** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Reti** | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
+| **Game development** | ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) |
 
 ---
 
-## 🌍 Lingue
+## 📈 Attività
 
-- **Italiano**
-- **Inglese**: C1
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TUO-USERNAME&hide_border=true&theme=tokyonight&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TUO-USERNAME&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=1F8FFF&point=FFFFFF&hide_border=true&area=true" width="98%" />
+
+</div>
 
 ---
 
@@ -81,6 +73,15 @@ Tecnico Informatico diplomato nel 2026 presso l'I.T. "G. Marconi" di Civitavecch
 
 <a href="mailto:TODO-la-tua-email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="TODO-link-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/TUO-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+**Lingue:**  Italiano ·  Inglese (C1)
+
+<br/>
+
+<i>Aperto a stage, apprendistato e primi lavori IT, in zona Civitavecchia/Roma o da remoto.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%" />
 
