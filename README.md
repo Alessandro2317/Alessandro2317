@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Alessandro%20Betti&fontSize=44&fontColor=FFFFFF&fontAlignY=32&desc=Tecnico%20Informatico&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/Alessandro2317">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Junior+Web+Developer;IT+Technician;Sviluppo+web%2C+reti+e+supporto+IT;Cerco+stage%2C+apprendistato+o+primo+lavoro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Junior+Web+Developer;IT+Technician;Web+Developing%2C+reti+e+supporto+IT;" alt="Typing SVG" />
 </a>
 
 <br/>
