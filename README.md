@@ -76,7 +76,7 @@ Tecnico Informatico diplomato nel 2026 presso l'I.T. "G. Marconi" di Civitavecch
 
 <br/>
 
-<i>Aperto a stage, apprendistato e primi lavori IT, in zona Roma e dintorni o da remoto.</i>
+<i>Aperto a stage, apprendistato e primi lavori IT/Web Developing, in zona Roma e dintorni o da remoto.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%" />
 
