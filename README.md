@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Alessandro%20TODO-Cognome&fontSize=44&fontColor=FFFFFF&fontAlignY=32&desc=Tecnico%20Informatico&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Alessandro%Betti&fontSize=44&fontColor=FFFFFF&fontAlignY=32&desc=Tecnico%20Informatico&descAlignY=52&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/Alessandro2317">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Diplomato+in+Informatica+(2026);Sviluppo+web%2C+reti+e+supporto+IT;Cerco+stage%2C+apprendistato+o+primo+lavoro" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Civitavecchia,_Italia-302B63?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Roma,_Italia-302B63?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Disponibile-Stage_%26_Primo_lavoro-A78BFA?style=for-the-badge&logo=handshake&logoColor=white" />
 <img src="https://img.shields.io/badge/Inglese-C1-1F8FFF?style=for-the-badge&logo=googletranslate&logoColor=white" />
 
